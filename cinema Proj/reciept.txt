@@ -1,0 +1,15 @@
+Booking - 
+First Name: joe
+SurName: man
+Email: sdjkfhsdkj@gmail.com
+Phone: 4327842389
+Movie: The Game of Thorns
+Booking Date: 16/02/2024
+Teenager
+Screen: IMAX
+Tickets: 10000
+Total payed: 144000.00 
+Adult
+Screen: 2D
+Tickets: 100000
+Total payed: 1200000.00 
